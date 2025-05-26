@@ -1,9 +1,10 @@
 # Ex-5-RECOGNITION-OF-THE-GRAMMAR-anb-where-n-10-USING-YACC
 RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
-
-## Date:
-## REG.NO :212223220013
-
+```
+NAME : BASKAR U
+REG.NO :212223220013
+```
+DATE: 24.04.2025
 # AIM
 To write a YACC program to recognize the grammar anb where n>=10.
 # ALGORITHM
